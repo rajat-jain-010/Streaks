@@ -1,0 +1,7 @@
+ Write a program in Python to find prime factors of a given integer and write their count.
+
+ Python program to check number representation is in binary
+
+ Python program to remove spaces from string without inbuilt function
+
+#Python program to count vowels numbers special cracters and consonants in the string
